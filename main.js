@@ -39,8 +39,8 @@ const teamTwo = [{
 
 
 
-const filterFavoriteColorandEmail = (array, color, email) => {
-  return array.filter(taco => taco.favoriteColor === color && taco => taco.email === email)
-};
+// const filterFavoriteColorandEmail = (array, color, email) => {
+//   return array.filter(taco => taco.favoriteColor === color && taco => taco.email === email)
+// };
 
-console.log(filterFavoriteColor(teamTwo, "Hunter Green"));
+// console.log(filterFavoriteColor(teamTwo, "Hunter Green"));
